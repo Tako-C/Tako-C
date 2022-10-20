@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/phakphum phrajrern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phakphum phrajrern" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100013536152222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phakphum phrajrern" height="30" width="40" /></a>
 <a href="https://instagram.com/tako_yakill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tako_yakill" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/takoyaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takoyaki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCuPHj6c9BoJria-lg8fOlGA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takoyaki" height="30" width="40" /></a>
 <a href="https://discord.gg/Tago(yaki)#1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tago(yaki)#1207" height="30" width="40" /></a>
 </p>
 
