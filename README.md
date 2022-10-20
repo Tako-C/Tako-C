@@ -8,7 +8,7 @@
 
 <img align="right" alt="me" with="400" src="https://media.tenor.com/n_mRKm2XEuAAAAAC/ninomae-inanis.gif">
 
-<p align="left"> <a href="https://twitter.com/merlin ii" target="blank"><img src="https://img.shields.io/twitter/follow/merlin ii?logo=twitter&style=for-the-badge" alt="merlin ii" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tagoyaki_II" target="blank"><img src="https://img.shields.io/twitter/follow/merlin ii?logo=twitter&style=for-the-badge" alt="merlin ii" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tako-c&label=Profile%20views&color=0e75b6&style=flat" alt="tako-c" /> </p>
 
