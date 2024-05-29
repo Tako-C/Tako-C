@@ -6,7 +6,7 @@
 <h1 align="center">Mr.Phakphum Phrajrern</h1>
 <h3 align="center">(SIT-KMUTT)</h3>
 
-<img align="right" alt="me" with="400" src="https://media.tenor.com/n_mRKm2XEuAAAAAC/ninomae-inanis.gif">
+<img align="right" alt="me" with="400" src="https://media.tenor.com/AdZwFyHVZZwAAAAi/kawaii-cute.gif">
 
 - 🌱 I’m currently learning:
   - **Java**
