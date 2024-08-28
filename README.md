@@ -17,6 +17,10 @@
 
 - 📫 How to reach me: **phakphum2phrajrern@gmail.com**
 
+<div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tako-C&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
