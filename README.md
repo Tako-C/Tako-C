@@ -55,21 +55,10 @@
 
 ### 📌 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/Tako-C/Project-Bookstore-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=Project-Bookstore-management&theme=white&hide_border=true" alt="Project-Bookstore-management" width="300" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;"/>
-  </a>
-  <a href="https://github.com/Tako-C/Project-Cenema-Ticket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=Project-Cenema-Ticket&theme=white&hide_border=true" alt="Project-Cinema-Ticket" width="300" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;"/>
-  </a>
-  <a href="https://github.com/Tako-C/INT222-NW3-PROJECT-FRONTEND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=INT222-NW3-PROJECT-FRONTEND&theme=white&hide_border=true" alt="INT222-NW3-PROJECT-FRONTEND" width="300" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;"/>
-  </a>
-  <a href="https://github.com/Tako-C/INT222-NW3-PROJECT-BACKEND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=INT222-NW3-PROJECT-BACKEND&theme=white&hide_border=true" alt="INT222-NW3-PROJECT-BACKEND" width="300" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;"/>
-  </a>
-</p>
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=Project-Bookstore-management)](https://github.com/Tako-C/Project-Bookstore-management.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=Project-Cenema-Ticket)](https://github.com/Tako-C/Project-Cenema-Ticket.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=INT222-NW3-PROJECT-BACKEND )](https://github.com/Tako-C/INT222-NW3-PROJECT-BACKEND.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Tako-C&repo=INT222-NW3-PROJECT-FRONTEND )](https://github.com/Tako-C/INT222-NW3-PROJECT-FRONTEND.git)
 
 ---
 
