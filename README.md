@@ -7,7 +7,7 @@
 
 <img align="right" alt="me" width="250" src="https://media.tenor.com/AdZwFyHVZZwAAAAi/kawaii-cute.gif">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/5uYnVpwOGOaiXTJmhNd62P?si=241b1a4b6dab40f2)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k?si=5RR8LNQ5QGm4pU2xTMOBxA)
 
 ### 🌱 I’m currently learning:
 
