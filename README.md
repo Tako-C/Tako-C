@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="me" src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif">
+  <img alt="me" src="https://github.com/Tako-C/Tako-C/blob/main/Photo/room_4.gif?raw=true">
 </p>
 
 <h1 align="center">Mr. Phakphum Phrajrern</h1>
